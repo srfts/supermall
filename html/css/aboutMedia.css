@@ -1,0 +1,172 @@
+@media screen and (max-width:768px) {
+
+
+	#header {
+		padding: 0 0 !important;
+		overflow-x: auto;
+	}
+
+	#header .header-logo {
+		width: 140px !important;
+		margin: 0 !important;
+	}
+
+	.home_btn_next {
+		display: none;
+	}
+
+	.home_btn {
+		display: none;
+	}
+
+	#header>div>div>h2 {
+		width: 100px;
+		font-weight: 700px;
+	}
+
+	#header>div>div>p {
+		display: none;
+	}
+
+	#header .nav_list {
+		/* display: none; */
+	}
+
+	.banner {
+		height: 200px;
+		padding: 0;
+		padding-left: 10px;
+	}
+
+	.banner .left h1 {
+		font-size: 18px !important;
+	}
+	.banner .left p {
+		font-size: 14px !important;
+	}
+
+	.banner .right img {
+		height: 160px;
+		width: 160px;
+	}
+
+	.select-right {
+		padding: 10px !important;
+		height: 226px !important;
+	}
+
+	.select-right h4 {
+		font-size: 18px !important;
+		padding: 0;
+	}
+
+	.select-right p {
+		padding-top: 10px !important;
+		font-size: 14px !important;
+	}
+
+	.select1{
+		padding: 0;
+		height: 100% !important;
+	}
+	.select1 h4{
+		font-size: 18px !important;
+		padding-top: 20px;
+	}
+	.select1 div{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		margin-bottom: 10px;
+	}
+	.select1 .ys-item{
+		margin: 0 !important;
+	}
+	.select2{
+		padding: 0;
+		height: 100% !important;
+	}
+	.select2 h4{
+		font-size: 18px !important;
+		padding-top: 20px;
+	}
+	.select2 .information{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.select2 .ys-item{
+		margin: 0;
+	}
+
+	.select-right img {
+		width: 163px;
+		height: 144px;
+	}
+
+	.card-item {
+		width: 50% !important;
+		padding: 10px;
+	}
+
+	.card-item p {
+		font-size: 14px !important;
+	}
+
+	.callme {
+		display: none !important;
+	}
+	.play {
+		height: 235px !important;
+		padding: 0;
+	}
+	.play h1 {
+		font-size: 18px !important;
+	}
+
+	.play img {
+		width: 351px !important;
+		height: 160px !important;
+	}
+
+	.footer {
+		height: 100% !important;
+		padding: 0;
+	}
+
+	.footer .foot_msg>div>img {
+		width: 44px;
+		height: 44px;
+	}
+
+	.footer .foot_msg>div>div h4 {
+		font-size: 16px !important;
+	}
+
+	.footer .foot_msg>div>div p {
+		font-size: 14px;
+		color: #5f5f5f;
+	}
+
+	.footer .foot_msg {
+		flex-direction: column !important;
+		justify-content: space-between !important;
+		height: 220px !important;
+		padding-left: 20px;
+	}
+
+	.service {
+		display: flex;
+		flex-wrap: wrap !important;
+		padding: 0 20px;
+	}
+
+	.service .service_item {
+		width: 153px !important;
+	}
+
+	.icp {
+		padding: 10px 20px;
+	}
+}

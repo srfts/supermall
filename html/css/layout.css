@@ -1,0 +1,27 @@
+/* body {
+	display: flex;
+	-webkit-display: flex;
+	height: 200px;
+	width: 100%;
+	min-width: 800px;
+}
+
+.left {
+	width: 200px;
+	/*左边宽度固定*/
+	height: 100%;
+}
+
+.right {
+	width: 230px;
+	/*右边宽度固定*/
+	height: 100%;
+}
+
+.center {
+	flex: 1;
+	/* flex:1;代表是这个子盒子去自由分配剩余的空间 */
+	height: 100%;
+}
+
+ */

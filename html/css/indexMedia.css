@@ -1,0 +1,208 @@
+@media screen and (max-width:768px) {
+
+
+	#header {
+		padding: 0 0 !important;
+		overflow-x: auto;
+	}
+
+	#header .header-logo {
+		width: 140px !important;
+		margin: 0 !important;
+	}
+
+	.home_btn_next {
+		display: none;
+	}
+
+	.home_btn {
+		display: none;
+	}
+
+	#header>div>div>h2 {
+		width: 100px;
+		font-weight: 700px;
+	}
+
+	#header>div>div>p {
+		display: none;
+	}
+
+	#header .nav_list {
+		/* display: none; */
+	}
+
+	.banner {
+		height: 200px;
+		padding: 0;
+		padding-left: 10px;
+	}
+
+	.banner .left>div h1 {
+		font-size: 18px !important;
+	}
+
+	.banner .right img {
+		height: 160px;
+		width: 160px;
+	}
+
+	.header .left {}
+
+	.select {
+		display: none;
+		height: 100%;
+	}
+
+	.select2 {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		padding: 0 !important;
+	}
+
+	.select2>div>h2 {
+		width: 300px;
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.select2>div>p {
+		width: 300px;
+		text-align: center;
+		font-size: 14px;
+	}
+
+	.select2 .min-box {
+		width: 50% !important;
+	}
+
+	.select2 .min-box:nth-child(1) {
+		display: none;
+
+	}
+
+	.select2 :nth-child(2) {}
+
+	.dsp-phone {
+		padding: 0;
+	}
+
+	.dsp-phone>.left {
+		display: none !important;
+	}
+
+	.dsp-phone>.right {
+		display: none;
+	}
+
+	.select3 {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		padding: 0 !important;
+		height: 100% !important;
+	}
+
+	.select3 h2 {
+		width: 100% !important;
+		text-align: center !important;
+		font-size: 18px !important;
+		height: 100% !important;
+		padding-top: 10px;
+	}
+
+	.select3>div>p {
+		width: 300px;
+		text-align: center;
+		font-size: 14px;
+	}
+
+	.select3>div {
+		display: flex;
+		justify-content: center;
+	}
+
+	.select3 .mark_item {
+		height: 170px !important;
+		padding: 0 !important;
+		width: 45% !important;
+	}
+
+	.select3 .mark_item img {
+		margin: 20px 0 0 10px;
+	}
+
+	.select3 .mark_item>div {
+		padding-top: 18px;
+	}
+
+	.select3 .mark_item p {
+		font-size: 12px !important;
+	}
+
+	.select4 {
+		margin-top: 10px;
+		padding: 0;
+		height: 100% !important;
+	}
+
+	.select4 h2 {
+		font-size: 18px !important;
+	}
+
+	.select4>div {
+		display: flex;
+		justify-content: center;
+	}
+
+	.select4>div .subdivide-card {
+		display: flex;
+		justify-content: center;
+		width: 44% !important;
+	}
+
+	.callme {
+		display: none !important;
+	}
+
+	.footer {
+		height: 100% !important;
+		padding: 0;
+	}
+
+	.footer .foot_msg>div>img {
+		width: 44px;
+		height: 44px;
+	}
+
+	.footer .foot_msg>div>div h4 {
+		font-size: 16px !important;
+	}
+
+	.footer .foot_msg>div>div p {
+		font-size: 14px;
+		color: #5f5f5f;
+	}
+
+	.footer .foot_msg {
+		flex-direction: column !important;
+		justify-content: space-between !important;
+		height: 220px !important;
+		padding-left: 20px;
+	}
+
+	.service {
+		display: flex;
+		flex-wrap: wrap !important;
+		padding: 0 20px;
+	}
+
+	.service .service_item {
+		width: 153px !important;
+	}
+
+	.icp {
+		padding: 10px 20px;
+	}
+}
